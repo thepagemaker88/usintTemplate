@@ -9,13 +9,11 @@ layout: default
 
 
 
-David Grethe
+ David Grethe
 
-76137 Karlsruhe
+ 76137 Karlsruhe
 
 
 Mobil: 0176 / 93201401
- 
-Tel:    0721 / 6049190
-
-Mail: David.Grethe@web.de 
+ Tel:    0721 / 6049190
+ Mail: David.Grethe@web.de 
