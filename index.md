@@ -2,11 +2,7 @@
 layout: default
 ---
 
-# David Grethe Softwareentwicklung 
 ## David Grethe Softwareentwicklung 
-### David Grethe Softwareentwicklung 
-#### David Grethe Softwareentwicklung 
-##### David Grethe Softwareentwicklung 
 
 David Grethe<BR>
 76137 Karlsruhe
