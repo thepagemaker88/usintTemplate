@@ -8,7 +8,7 @@ layout: default
 #### David Grethe Softwareentwicklung 
 ##### David Grethe Softwareentwicklung 
 ###### David Grethe Softwareentwicklung 
-####### David Grethe Softwareentwicklung 
+ 
 
 
 
@@ -17,6 +17,6 @@ layout: default
  76137 Karlsruhe
 
 
-Mobil: 0176 / 93201401
+Mobil: 0176 / 93201401<P>
  Tel:    0721 / 6049190
  Mail: David.Grethe@web.de 
