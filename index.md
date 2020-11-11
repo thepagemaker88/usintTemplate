@@ -2,7 +2,7 @@
 layout: default
 ---
 
-David Grethe<BR>
+Dipl.-Wi.-Ing. David Grethe<BR>
 76137 Karlsruhe
 
 Mobil: 0176 / 93201401<BR>
